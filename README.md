@@ -23,3 +23,4 @@ I like automating my workflows using Snakemake and Nextflow.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/abdelrahmanmahany2020/)
 🔗 [YouTube](https://www.youtube.com/@bio.tech.science) 
+🔗 [Mail](abdelrahmanmahany@gmail.com)
