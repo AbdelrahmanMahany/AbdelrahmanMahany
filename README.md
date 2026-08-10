@@ -16,7 +16,7 @@ I like automating my workflows using Snakemake and Nextflow.
 
 ### 🛠️ Tools & Technologies
 
-`Python` · `Linux` · `Illumina Platforms` . `ONT` · `QIIME 2` · `Snakemake` · `GATK` · `bcftools` . `Samtools` . `Spades` .  `BWA` . `Bowtie2` . `Tophat` . `Star`
+`Python` · `Linux` · `Illumina Platforms` . `ONT` · `QIIME 2` · `Snakemake` · `GATK` · `bcftools` . `Samtools` . `Spades` .  `BWA` . `Bowtie2` . `Tophat` . `Star` . `R` . `Spatial Transcriptomics` . `Seurat`
 
 > Turning genomic data into practical biological and diagnostic insights.
 
