@@ -12,6 +12,7 @@ I like automating my workflows using Snakemake and Nextflow.
 * Next-generation sequencing and microarrays
 * Molecular diagnostics and real-time PCR
 * Human infectious diseases and agrigenomics
+* Data analyis and Biostatistics
 
 ### 🛠️ Tools & Technologies
 
