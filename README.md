@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Abdelrahman Mahany
 
 🧬 **Illumina certified Field Application Specialist — Genomics & Molecular Diagnostics**
+💻 **Freelancer Bioinformatician - Biostatistician**
 
 I support genomic technologies and laboratory workflows, combining hands-on molecular diagnostics experience with bioinformatics and data analysis.
 I also provide Bioinformatics solutions as a freelancer with experience in NGS data analysis, RNA-Seq, Metagenomics, AMR, and other workflows.
